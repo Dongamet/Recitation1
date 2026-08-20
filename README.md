@@ -1,3 +1,6 @@
 # Recitation1
 
-eeka. hefuwahj
+1) git add .
+2) git config --global user.name "Dongamet"
+3) git push
+
