@@ -5,7 +5,7 @@
 2) git config --global user.name "Dongamet"
    authorizes (do once)
 3) git commit -m "Message"
-   saves the changes
+   saves the changes, doesnt publish to github yet
 4) git push
-   updates the repo
+   publishes the changes
 
